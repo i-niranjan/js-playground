@@ -1,0 +1,8 @@
+Call Stack
+
+1. Global Execution
+one()
+two()
+three()
+
+- IT follow LIFO (Last In First Out)
